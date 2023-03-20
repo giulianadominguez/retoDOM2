@@ -1,0 +1,49 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    background-color: rgb(219, 255, 166)
+}
+
+.Frojos{
+    border: red solid 2px;
+    margin: 5px;
+    text-align: center;
+}
+
+.Frojos.red {
+    border: red 2px solid;
+    background: red;
+    color: white;
+}
+
+.Fdulces{
+    border: red solid 2px;
+    margin: 5px;
+    text-align: center;
+}
+
+.Fdulces.amarillo {
+    border:yellow 2px solid;
+    background: yellow;
+    color: white;
+}
+
+#menu{
+    font-size: 50px;
+    color: rgb(0, 122, 6);
+    font-weight: bolder;
+}
+
+#lista{
+    font-size: 20px;
+    color: white;
+    border: 1px solid white;
+    width: 700px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    background-image: url(frutas-y-frutos-secos.jpg);
+}
+
+
+    
